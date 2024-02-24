@@ -1,0 +1,6 @@
+@theatreAPI_HostAddress = http://localhost:5129
+
+GET {{theatreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
